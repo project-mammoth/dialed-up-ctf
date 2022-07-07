@@ -16,6 +16,9 @@ We tried to add an abundance of phreaking related sounds and samples including
 ~30 different ring tones, DTMF, a rotary phone, lots of modem noises and
 carrier recording samples.  Hope you like it, we had fun with it :). 
 
+The original song file can be found
+[https://github.com/project-mammoth/dialed-up-ctf/raw/main/Dialed%20Up%20CTF.mp3](here).
+
 # Key Formats and submitting results
 * Keys are in the format of `{DialedUpCTF}<16 hex nibbles>`, eg.
   `{DialedUpCTF}ab12cd34ef56gh78`
