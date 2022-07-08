@@ -18,7 +18,6 @@ carrier recording samples.  Hope you like it, we had fun with it :).
 
 The original song file can be found
 [here](https://github.com/project-mammoth/dialed-up-ctf/raw/main/Dialed%20Up%20CTF.mp3).
-Current sha1 hash is `5e7245252fba802fe69888273f42171c0338a68a`.
 
 # Key Formats and submitting results
 * Keys are in the format of `{DialedUpCTF}<16 hex nibbles>`, eg.
@@ -40,3 +39,7 @@ If you’re stuck on a challenge and would like a hint, tag us or DM
 @prjctmammoth on Twitter, or alternatively email us at prjctmammoth [at]
 gmail.com.  Responses are best effort since we’ll also be attending Defcon :). 
 
+# File Hashes
+SHA1 hashes:
+* Version 0.1 `5e7245252fba802fe69888273f42171c0338a68a`
+* Version 0.2 `4df91f5a20d934f6215ae29fbfde5de03aaaf312`
