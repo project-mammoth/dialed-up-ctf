@@ -24,6 +24,7 @@ The original song file can be found
   `{DialedUpCTF}ab12cd34ef56gh78`
 * For submission details see the README which will be released when the contest
   starts
+* A key verification tool will be released when the contest starts
 * Winners with correct answers will be chosen with the earliest submission time
 
 # Prizes and Such
