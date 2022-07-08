@@ -18,6 +18,7 @@ carrier recording samples.  Hope you like it, we had fun with it :).
 
 The original song file can be found
 [here](https://github.com/project-mammoth/dialed-up-ctf/raw/main/Dialed%20Up%20CTF.mp3).
+Current sha1 hash is `5e7245252fba802fe69888273f42171c0338a68a`.
 
 # Key Formats and submitting results
 * Keys are in the format of `{DialedUpCTF}<16 hex nibbles>`, eg.
