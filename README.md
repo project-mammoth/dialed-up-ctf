@@ -8,7 +8,7 @@ binary exploitation skills are required, but some challenges are much easier to
 solve with coding/scripting.
 
 The challenge you are seeing now is just a teaser release. Please visit
-https://projectmammoth.com at 2022-08-03:00:00 GMT for the final competition
+https://projectmammoth.com at 2022-08-06:00:00 GMT for the final competition
 CTF.
 
 # About the song
