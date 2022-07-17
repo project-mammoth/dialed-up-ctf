@@ -1,6 +1,10 @@
+<p align="center">
+<img src="https://projectmammoth.com/images/dialed-up-ctf-ascii-banner.png">
+</p>
+
 # Summary
-Dialed Up CTF is a music and phreaking themed mini-CTF that is completely
-self-contained in an .mp3 file.
+Dialed Up CTF is a music and phreaking themed mini-[CTF](https://ctfd.io/whats-a-ctf/)
+that is completely self-contained in an .mp3 file.
 
 The mini-CTF is jeopardy style with ~7 challenges.  The challenges are puzzle
 based and generally involve music or phreaking related themes.  No software or
@@ -18,6 +22,8 @@ carrier recording samples.  Hope you like it, we had fun with it :).
 
 The original song file can be found
 [here](https://github.com/project-mammoth/dialed-up-ctf/raw/main/Dialed%20Up%20CTF.mp3).
+
+Note: The [contest mp3 file](https://github.com/project-mammoth/dialed-up-ctf/raw/main/Dialed%20Up%20CTF.mp3) is benign and does not contain any exploits or malicious payloads.  Other than having some extra metadata embedded in it, it's a normal mp3 file and safe to open.  Here's the [Virus Total scan link](https://www.virustotal.com/gui/file/d8ccaf55a7b75f7f8a874a3f6161dc523e7efd441d27c8ffc347e3ded596d189) for reference.
 
 # Key Formats and submitting results
 * Keys are in the format of `{DialedUpCTF}<16 hex nibbles>`, eg.
