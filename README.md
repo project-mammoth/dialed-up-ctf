@@ -8,41 +8,30 @@ that is completely self-contained in an .mp3 file.
 
 This mini-CTF is jeopardy style with ~9 challenges.  The challenges are puzzle
 based and generally involve music or phreaking related themes.  No software or
-binary exploitation skills are required, but some challenges are much easier to
-solve with coding/scripting.
+binary exploitation skills are required, but some challenges are significantly
+easier to solve with coding/scripting.
 
-The challenges available now are just a part of a teaser release, but please
-visit https://projectmammoth.com at 2022-08-06:00:00 GMT for the final
-competition CTF start time.
-
-# About the song
-We tried to add a wide array of phreaking related sounds and samples including
-~30 different ring tones, DTMF, a rotary phone, lots of modem noises and
-carrier recording samples.  Hope you like it, we had fun with it :). 
-
-The official contest version of the song in file format can be found
-[here](https://github.com/project-mammoth/dialed-up-ctf/raw/main/Dialed%20Up%20CTF.mp3),
-and we'll push it to some other platforms soon.
-
-Note: The [contest mp3 file](https://github.com/project-mammoth/dialed-up-ctf/raw/main/Dialed%20Up%20CTF.mp3)
-is benign and does not contain any exploits or malicious payloads.  Other
-than having some extra metadata embedded in it, it's a normal mp3 file
-and safe to open.  Here's the
-[Virus Total scan link](https://www.virustotal.com/gui/file/d8ccaf55a7b75f7f8a874a3f6161dc523e7efd441d27c8ffc347e3ded596d189)
-for reference.
+The challenges available now are just a subset of the challenges as a teaser
+release, but please visit https://projectmammoth.com at 2022-08-06 00:00 UTC to
+play the main contest.   The contest will run for just over a week until
+2022-08-15 00:00 UTC.
 
 # Key Formats and submitting results
 * Keys are in the format of `{DialedUpCTF}<16 hex nibbles>`, eg.
   `{DialedUpCTF}ab12cd34ef56gh78`
-* For submission details see the README which will be released when the contest
-  starts
-* A key verification tool will be released when the contest starts
+* Almost all keys will have the `{DialedUpCTF}` prefix when found in
+  game, but any that do not will be clearly marked in the challenge description.
+* Key submission will be done via the [CTF contest page](https://dialed-up.ctfd.io)
+  and requires creating an account for the site.
+* Teams can share an account if desired.
 * Winners with correct answers will be chosen with the earliest submission time
 
 # Prizes and Such
-* The first 5 winners of the competition version will be announced on twitter
+* The first 5 winners of the competition version will be announced on twitter.
+* A live [scoreboard can be found here](https://dialed-up.ctfd.io/scoreboard)
+  after the contest starts.
 * Prizes include a Dialed Up CTF t-shirt and bragging rights! :)
-* Please don’t release keys or hashes of keys publically at least until the
+* Please don’t release keys publically, at least until the
   contest is over.
 * After the CTF is over, write-ups are very welcome!
 
@@ -52,7 +41,25 @@ listed with each challenge on the scoreboard site.  If you're still really
 stuck, tag us or DM @prjctmammoth on Twitter, or alternatively email us at
 prjctmammoth [at] gmail.com -- We want everyone with an interest at all
 skill levels to have fun, so we're happy to help!  Responses are best
-effort since we’ll also be attending Defcon :). 
+effort since we’ll also be attending Defcon :).
+
+# About the song
+We tried to add a wide array of phreaking related sounds and samples including
+~30 different ring tones, DTMF, a rotary phone, lots of modem noises and
+carrier recording samples.  Hope you like it, we had fun with it :). 
+
+The official contest version of the song file can be found
+[here](https://github.com/project-mammoth/dialed-up-ctf/raw/main/Dialed%20Up%20CTF.mp3).
+You can also listen to the song [on soundcloud](https://soundcloud.com/projectmammoth/dialed-up),
+but note that only the [official .mp3](https://github.com/project-mammoth/dialed-up-ctf/raw/main/Dialed%20Up%20CTF.mp3)
+has the CTF contest data encoded in it.
+
+Note: The [contest mp3 file](https://github.com/project-mammoth/dialed-up-ctf/raw/main/Dialed%20Up%20CTF.mp3)
+is benign and does not contain any exploits or malicious payloads.  Other
+than having some extra metadata embedded in it, it's a normal mp3 file
+and safe to open.  Here's the
+[Virus Total scan link](https://www.virustotal.com/gui/file/d8ccaf55a7b75f7f8a874a3f6161dc523e7efd441d27c8ffc347e3ded596d189)
+for reference.
 
 # File Hashes
 SHA1 hashes:
