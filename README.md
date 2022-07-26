@@ -7,6 +7,7 @@ Dialed Up CTF is a music and phreaking themed mini-[CTF](https://ctfd.io/whats-a
 that is completely self-contained in [an .mp3 file](https://github.com/project-mammoth/dialed-up-ctf/raw/main/Dialed%20Up%20CTF.mp3)
 (to just listen to the song
 [on soundcloud click here](https://soundcloud.com/projectmammoth/dialed-up)).
+The official [CTF contest page is here](https://dialed-up.ctfd.io).
 
 This mini-CTF is jeopardy style with ~9 challenges.  The challenges are puzzle
 based and generally involve music or phreaking related themes.  No software or
