@@ -16,15 +16,17 @@ release, but please visit https://projectmammoth.com at 2022-08-06 00:00 UTC to
 play the main contest.   The contest will run for just over a week until
 2022-08-15 00:00 UTC.
 
+To [register for the contest, please create an account here](https://dialed-up.ctfd.io/register).
+
 # Key Formats and submitting results
 * Keys are in the format of `{DialedUpCTF}<16 hex nibbles>`, eg.
-  `{DialedUpCTF}ab12cd34ef56gh78`
+  `{DialedUpCTF}ab12cd34ef56gh78`.
 * Almost all keys will have the `{DialedUpCTF}` prefix when found in
   game, but any that do not will be clearly marked in the challenge description.
 * Key submission will be done via the [CTF contest page](https://dialed-up.ctfd.io)
-  and requires creating an account for the site.
+  and requires [creating an account](https://dialed-up.ctfd.io/register) for the site.
 * Teams can share an account if desired.
-* Winners with correct answers will be chosen with the earliest submission time
+* Winners with correct answers will be chosen with the earliest submission time.
 
 # Prizes and Such
 * The first 5 winners of the competition version will be announced on twitter.
