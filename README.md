@@ -22,8 +22,8 @@ play the main contest.   The contest will run for just over a week until
 To [register for the contest, please create an account here](https://dialed-up.ctfd.io/register).
 
 # Key Formats and submitting results
-* Keys are in the format of `{DialedUpCTF}<16 hex nibbles>`, eg.
-  `{DialedUpCTF}ab12cd34ef56gh78`.
+* Keys are in the format of `{DialedUpCTF}<16 hex nibbles>` (eg.
+  `{DialedUpCTF}ab12cd34ef56gh78`) and are case insensitive.
 * Almost all keys will have the `{DialedUpCTF}` prefix when found in
   game, but any that do not will be clearly marked in the challenge description.
 * Key submission will be done via the [CTF contest page](https://dialed-up.ctfd.io)
