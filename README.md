@@ -4,25 +4,22 @@
 
 # Summary
 Dialed Up CTF is a music and phreaking themed mini-[CTF](https://ctfd.io/whats-a-ctf/)
-that is completely self-contained in [an .mp3 file](https://github.com/project-mammoth/dialed-up-ctf/raw/main/Dialed%20Up%20CTF.mp3)
-(to just listen to the song
-[on soundcloud click here](https://soundcloud.com/projectmammoth/dialed-up)).
-The official [CTF contest page is here](https://dialed-up.ctfd.io).
+that is completely self-contained in [an .mp3 file](https://github.com/project-mammoth/dialed-up-ctf/raw/main/Dialed%20Up%20CTF.mp3).
+To just listen to the song check it out on [soundcloud](https://soundcloud.com/projectmammoth/dialed-up),
+or for the full video [check here](https://www.youtube.com/watch?v=euMZYqDG4Sc).
+The official [CTF contest page is here](https://ctf.projectmammoth.com).
 
-This mini-CTF is jeopardy style with ~9 challenges.  The challenges are puzzle
+This mini-CTF is jeopardy style with 10 challenges.  The challenges are puzzle
 based and generally involve music or phreaking related themes.  No software or
 binary exploitation skills are required, but some challenges are significantly
 easier to solve with coding/scripting.
 
-The challenges available now are just a subset of the challenges as a teaser
-release, but please visit https://projectmammoth.com at 2022-08-06 00:00 UTC to
-play the main contest.   The contest will run for just over a week until
-2022-08-15 00:00 UTC.
+The contest will run for just over a week until 2022-08-15 00:00 UTC.
 
 To [register for the contest, please create an account here](https://dialed-up.ctfd.io/register).
 
 # Key Formats and submitting results
-* Keys are in the format of `{DialedUpCTF}<16 hex nibbles>` (eg.
+* Keys are in the format of `{DialedUpCTF}<16 hex nibbles>` (e.g.
   `{DialedUpCTF}ab12cd34ef56gh78`) and are case insensitive.
 * Almost all keys will have the `{DialedUpCTF}` prefix when found in
   game, but any that do not will be clearly marked in the challenge description.
@@ -65,6 +62,12 @@ than having some extra metadata embedded in it, it's a normal mp3 file
 and safe to open.  Here's the
 [Virus Total scan link](https://www.virustotal.com/gui/file/d8ccaf55a7b75f7f8a874a3f6161dc523e7efd441d27c8ffc347e3ded596d189)
 for reference.
+
+# Notes
+* The hints are not in the .mp3 file and are only available on ctf.projectmammoth.com with a registered user.
+* The video links in the notes sections of the challenges are sometimes hints, but sometimes just for fun :).
+* Keep an eye on the notifications on https://ctf.projectmammoth.com/ and our
+  twitter https://twitter.com/prjctmammoth for updates.
 
 # File Hashes
 SHA1 hashes:
